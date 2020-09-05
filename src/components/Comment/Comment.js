@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: "#daebdf",
   },
   title: {
-    fontSize: "23px",
+    fontSize: "20px",
   },
   large: {
     width: theme.spacing(6),
